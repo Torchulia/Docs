@@ -11,3 +11,7 @@ https://app.qase.io/project/G101?case=967&suite=177
 PDF   импорт из QASE
 
 https://app.qase.io/print/project/G101?filter=%7B%7D&suite_id=176&sort_by=position
+
+Отчеты о дефектах
+
+https://docs.google.com/spreadsheets/d/1TbEx7xpILRkvNBPP7ip_-K-E0G1zg-IzXQ-oCvZW4QY/edit?gid=0#gid=0
