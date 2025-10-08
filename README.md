@@ -18,14 +18,4 @@ https://docs.google.com/spreadsheets/d/1TbEx7xpILRkvNBPP7ip_-K-E0G1zg-IzXQ-oCvZW
 
 PDF имрорт из QASE
 
-[Ран отриц значение.pdf](https://github.com/user-attachments/files/22476963/default.pdf)
-
-[Ран грамм ошибка в Оплате.pdf](https://github.com/user-attachments/files/22476965/default.pdf)
-
-[Ран добавление спецсимволов.pdf](https://github.com/user-attachments/files/22476966/default.pdf)
-
-[Ран на главной.pdf](https://github.com/user-attachments/files/22476968/default.pdf)
-
-[Ран в Истории заказов и в Корзине.pdf](https://github.com/user-attachments/files/22476970/default.pdf)
-
-[Деффект с перенаправлением после выхода.pdf](https://github.com/user-attachments/files/22476971/default.pdf)
+file:///Users/torchulia/Downloads/G101-Test+run+2025_10_08.pdf
