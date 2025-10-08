@@ -18,4 +18,4 @@ https://docs.google.com/spreadsheets/d/1TbEx7xpILRkvNBPP7ip_-K-E0G1zg-IzXQ-oCvZW
 
 PDF имрорт из QASE
 
-file:///Users/torchulia/Downloads/G101-Test+run+2025_10_08.pdf
+[G101-Test+run+2025_10_08 (1).pdf](https://github.com/user-attachments/files/22769041/G101-Test%2Brun%2B2025_10_08.1.pdf)
